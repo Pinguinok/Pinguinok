@@ -2,8 +2,8 @@
 /-- Thanks for stopping by! --/
 - 👀 I’m very interested in programming {}
 - 🌱 I’m currently learning FrontEnd, but always glad to new knowledge and therefore I am going to try all programming languages () =>
-- 💞️ (I’m looking to collaborate on good and creative people :)
-- 📫 How to reach me: text me on telegram (' @pinguin_ok ')
+- 💞️ I’m looking to collaborate on good and creative people :)
+- 📫 How to reach me: text me on telegram (' @pinguin_ok ' )
 
 <!---
 Pinguinok/Pinguinok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
